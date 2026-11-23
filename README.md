@@ -1,2 +1,2 @@
 # PNP
-Twin Complexity Conjecture, PNP reformulation
+Twin Complexity Conjecture, A Universal Structural Principle Implying P = NP
